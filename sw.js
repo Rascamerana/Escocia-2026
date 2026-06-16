@@ -1,4 +1,4 @@
-const CACHE_NAME = 'escocia-2026-v107-stable-20260616';
+const CACHE_NAME = 'escocia-2026-v108-pwa-bugfix-20260616';
 const APP_SHELL = [
   './',
   './index.html',
@@ -25,7 +25,6 @@ self.addEventListener('activate', event => {
 self.addEventListener('fetch', event => {
   const request = event.request;
   if (request.method !== 'GET') return;
-
   const url = new URL(request.url);
   if (url.origin !== self.location.origin) return;
 

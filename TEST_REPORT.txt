@@ -1,15 +1,25 @@
-OK: index.html existe
-OK: manifest.webmanifest existe
-OK: sw.js existe
-OK: icon-192.png existe
-OK: icon-512.png existe
-OK: manifest JSON válido
-OK: sw.js sintaxis OK
-OK: marcador visual iosFinalNav
-OK: marcador visual familyCopyrightFooter
-OK: marcador visual Sandra, Dídac i Pol
-OK: marcador visual V105
-OK: marcador PWA manifest.webmanifest
-OK: marcador PWA pwaOfflineRegistration
-OK: marcador PWA ./sw.js
-OK: IDs duplicados reales (0)
+Escòcia 2026 · v108 PWA Bugfix
+Base: index.html subido por el usuario (versión estable actual)
+
+Correcciones aplicadas:
+- Eliminada la duplicidad visual del título de ruta cuando existe el flujo rediseñado de ciudades.
+- Reparadas imágenes embebidas dañadas usando la última versión válida disponible.
+- Añadidos/validados manifest.webmanifest y sw.js para PWA offline.
+
+Imágenes reparadas:
+- Mapa topográfico dia 9
+- Royal Mile
+- Victoria Street / Grassmarket
+- Devolució cotxe a Ayr
+
+Tests:
+- Total imágenes embebidas: 55
+- Imágenes dañadas tras parche: 0
+- IDs duplicados reales: 0
+- Enlaces internos rotos reales: 0
+- Manifest: OK
+- Service Worker: OK
+
+Nota:
+- Sustituye en GitHub los 5 archivos principales: index.html, manifest.webmanifest, sw.js, icon-192.png e icon-512.png.
+- TEST_REPORT.txt es informativo; no es necesario subirlo.
