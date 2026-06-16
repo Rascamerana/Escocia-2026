@@ -1,4 +1,4 @@
-const CACHE_NAME = 'escocia-2026-v112-stable-day-indicator';
+const CACHE_NAME = 'escocia-v113-pwa-polish';
 const APP_ASSETS = [
   './',
   './index.html',

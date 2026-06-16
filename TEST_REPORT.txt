@@ -1,19 +1,8 @@
-Escòcia 2026 · v112 Stable Day Indicator
-
-Base: v109 PWA Image Fix (rollback estable, sin regresiones v110/v111).
-Cambios:
-- Indicador flotante de día actual.
-- Días siempre abiertos; se elimina el autocierre al hacer scroll.
-- Se oculta el título duplicado de ruta en la banda superior de cada día.
-- Se mantiene PWA offline.
-
-Tests estáticos:
-- IDs duplicados: 0 []
-- Enlaces internos rotos: 0 []
-- Imágenes verificadas: 55
-- Imágenes corruptas: 0 []
-- Hrefs externos/formato no reconocido: 0 []
-- Manifest: OK
-- Service Worker: OK
-
-Nota honesta: no sustituye una prueba física en iPhone/Safari; se ha priorizado estabilidad y rollback de cambios que empeoraban el uso.
+Escòcia 2026 · v113 PWA Polish
+Correccions: topbar més suau, indicador amagat després del Dia 11, textos Avui sense connexió en català.
+IDs duplicats: 0
+Enllaços interns trencats: 0
+Imatges incrustades: 55
+Imatges corruptes: 0
+Text castellà visible revisat: OK
+PWA: manifest + service worker inclosos

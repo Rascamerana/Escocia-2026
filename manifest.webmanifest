@@ -1,7 +1,7 @@
 {
   "name": "Escòcia 2026 · Família Bonet Prujà",
   "short_name": "Escòcia 2026",
-  "description": "Guia familiar de viatge d'Escòcia 2026 amb funcionament offline. Versió estable v112.",
+  "description": "Guia PWA offline del viatge familiar a Escòcia.",
   "lang": "ca",
   "start_url": "./index.html",
   "scope": "./",
