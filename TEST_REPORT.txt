@@ -1,0 +1,15 @@
+OK: index.html existe
+OK: manifest.webmanifest existe
+OK: sw.js existe
+OK: icon-192.png existe
+OK: icon-512.png existe
+OK: manifest JSON válido
+OK: sw.js sintaxis OK
+OK: marcador visual iosFinalNav
+OK: marcador visual familyCopyrightFooter
+OK: marcador visual Sandra, Dídac i Pol
+OK: marcador visual V105
+OK: marcador PWA manifest.webmanifest
+OK: marcador PWA pwaOfflineRegistration
+OK: marcador PWA ./sw.js
+OK: IDs duplicados reales (0)

@@ -1,0 +1,26 @@
+{
+  "name": "Escòcia 2026 · Família Bonet Prujà",
+  "short_name": "Escòcia 2026",
+  "description": "Guia familiar de viatge d'Escòcia 2026 amb funcionament offline.",
+  "lang": "ca",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#07192d",
+  "theme_color": "#07192d",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
