@@ -1,25 +1,19 @@
-Escòcia 2026 · v111 Full Test Bugfix
+Escòcia 2026 · v112 Stable Day Indicator
 
-Fecha de test: 2026-06-16
-Base: v110 PWA Current Day
-
-Correcciones aplicadas:
-- Reparado renderTripStatus(): en v110 podía fallar si faltaban progressBarFill/progressStats en el DOM.
-- Añadido fallback automático de barra de progreso en Estado del viaje.
-- Añadido estilo faltante para dash-green del panel de acceso rápido.
-- Actualizado cache del Service Worker a escocia-2026-v111-fulltest-bugfix.
+Base: v109 PWA Image Fix (rollback estable, sin regresiones v110/v111).
+Cambios:
+- Indicador flotante de día actual.
+- Días siempre abiertos; se elimina el autocierre al hacer scroll.
+- Se oculta el título duplicado de ruta en la banda superior de cada día.
+- Se mantiene PWA offline.
 
 Tests estáticos:
-- JavaScript node --check: OK
-- IDs duplicados: 0
-- Enlaces internos rotos: 0
-- Funciones usadas por botones inline: OK
-- Imágenes base64 corruptas: 0
-- Imágenes de contenido verificadas: 55/55 OK
-- Manifest PWA: OK
-- Iconos manifest: OK
+- IDs duplicados: 0 []
+- Enlaces internos rotos: 0 []
+- Imágenes verificadas: 55
+- Imágenes corruptas: 0 []
+- Hrefs externos/formato no reconocido: 0 []
+- Manifest: OK
 - Service Worker: OK
-- Assets cacheados: OK
 
-Limitación:
-- No se ha podido ejecutar test headless en navegador por bloqueo del entorno de ejecución, pero se ha realizado auditoría estática completa y validación de sintaxis/recursos.
+Nota honesta: no sustituye una prueba física en iPhone/Safari; se ha priorizado estabilidad y rollback de cambios que empeoraban el uso.
