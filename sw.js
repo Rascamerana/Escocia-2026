@@ -1,4 +1,4 @@
-const CACHE_NAME = 'escocia-v113-pwa-polish';
+const CACHE_NAME = 'escocia-v122-rc8-smart-today-backup';
 const APP_ASSETS = [
   './',
   './index.html',
