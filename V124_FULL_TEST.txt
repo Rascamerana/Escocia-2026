@@ -1,0 +1,143 @@
+V124 RC10 · FULL REGRESSION TEST
+======================================
+
+OK   Dia 1 present
+OK   Dia 1 data-day
+OK   Dia 1 estat
+OK   Dia 2 present
+OK   Dia 2 data-day
+OK   Dia 2 estat
+OK   Dia 3 present
+OK   Dia 3 data-day
+OK   Dia 3 estat
+OK   Dia 4 present
+OK   Dia 4 data-day
+OK   Dia 4 estat
+OK   Dia 5 present
+OK   Dia 5 data-day
+OK   Dia 5 estat
+OK   Dia 6 present
+OK   Dia 6 data-day
+OK   Dia 6 estat
+OK   Dia 7 present
+OK   Dia 7 data-day
+OK   Dia 7 estat
+OK   Dia 8 present
+OK   Dia 8 data-day
+OK   Dia 8 estat
+OK   Dia 9 present
+OK   Dia 9 data-day
+OK   Dia 9 estat
+OK   Dia 10 present
+OK   Dia 10 data-day
+OK   Dia 10 estat
+OK   Dia 11 present
+OK   Dia 11 data-day
+OK   Dia 11 estat
+OK   Sortida 10:30
+OK   Marge Pol
+OK   Ayr familiar
+OK   Repostatge 13:15
+OK   Arnold ≤14
+OK   Arnold adreça
+OK   Arnold postcode
+OK   Shuttle
+OK   PIK 15
+OK   FR7823
+OK   BCN 21:20
+OK   Avis no aeroport
+OK   Tel Arnold
+OK   Smart helper
+OK   Day1 07:20
+OK   FR7824
+OK   Day1 BCN 08:05
+OK   No Prestwick 12:30 objective
+OK   No return 14:45
+OK   No terminal 16
+OK   Google Arnold destination
+OK   Waze Arnold destination
+OK   Apple Arnold destination
+OK   DOM IDs unique
+OK   Internal anchors valid
+OK   Imatge Base64 1
+OK   Imatge Base64 2
+OK   Imatge Base64 3
+OK   Imatge Base64 4
+OK   Imatge Base64 5
+OK   Imatge Base64 6
+OK   Imatge Base64 7
+OK   Imatge Base64 8
+OK   Imatge Base64 9
+OK   Imatge Base64 10
+OK   Imatge Base64 11
+OK   Imatge Base64 12
+OK   Imatge Base64 13
+OK   Imatge Base64 14
+OK   Imatge Base64 15
+OK   Imatge Base64 16
+OK   Imatge Base64 17
+OK   Imatge Base64 18
+OK   Imatge Base64 19
+OK   Imatge Base64 20
+OK   Imatge Base64 21
+OK   Imatge Base64 22
+OK   Imatge Base64 23
+OK   Imatge Base64 24
+OK   Imatge Base64 25
+OK   Imatge Base64 26
+OK   Imatge Base64 27
+OK   Imatge Base64 28
+OK   Imatge Base64 29
+OK   Imatge Base64 30
+OK   Imatge Base64 31
+OK   Imatge Base64 32
+OK   Imatge Base64 33
+OK   Imatge Base64 34
+OK   Imatge Base64 35
+OK   Imatge Base64 36
+OK   Imatge Base64 37
+OK   Imatge Base64 38
+OK   Imatge Base64 39
+OK   Imatge Base64 40
+OK   Imatge Base64 41
+OK   Imatge Base64 42
+OK   Imatge Base64 43
+OK   Imatge Base64 44
+OK   Imatge Base64 45
+OK   Imatge Base64 46
+OK   Imatge Base64 47
+OK   Imatge Base64 48
+OK   Imatge Base64 49
+OK   Imatge Base64 50
+OK   Imatge Base64 51
+OK   Imatge Base64 52
+OK   Imatge Base64 53
+OK   Imatge Base64 54
+OK   JavaScript 1
+OK   JavaScript 2
+OK   JavaScript 3
+OK   JavaScript 4
+OK   JavaScript 5
+OK   JavaScript 6
+OK   JavaScript 7
+OK   JavaScript 8
+OK   JavaScript 9
+OK   JavaScript 10
+OK   JavaScript 11
+OK   JavaScript 12
+OK   JavaScript 13
+OK   JavaScript 14
+OK   JavaScript 15
+OK   JavaScript 16
+OK   JavaScript 17
+OK   JavaScript 18
+OK   Manifest JSON
+OK   Manifest standalone
+OK   SW cache v124
+OK   Fitxer index.html
+OK   Fitxer manifest.webmanifest
+OK   Fitxer sw.js
+OK   Fitxer icon-192.png
+OK   Fitxer icon-512.png
+
+TOTAL: 138/138 OK · 0 FAIL

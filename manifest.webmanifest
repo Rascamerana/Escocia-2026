@@ -1,7 +1,7 @@
 {
   "name": "Escòcia 2026 · Família Bonet Prujà",
   "short_name": "Escòcia 2026",
-  "description": "Guia familiar d’Escòcia 2026 amb Avui intel·ligent, documents contextuals, còpia de seguretat i funcionament sense connexió.",
+  "description": "Escòcia 2026 · guia familiar offline amb Avui intel·ligent, logística familiar de vols, documents i còpia de seguretat",
   "lang": "ca",
   "start_url": "./index.html",
   "scope": "./",
