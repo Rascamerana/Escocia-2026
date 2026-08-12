@@ -1,4 +1,4 @@
-const CACHE_NAME = 'escocia-v126-real-iphone-corrective';
+const CACHE_NAME = 'escocia-v127-local-docs-ios';
 const APP_ASSETS = [
   './',
   './index.html',
